@@ -1,4 +1,4 @@
-# Install Tailwind && Daisy UI (check out the docs)
+
 
 # Update Tailwind config file for daisy UI
 
